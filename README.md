@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate DataScientist&MachineLearning engineer from Spain</h3>
 
-- 🔭 I’m currently working on [Mindguard](https://github.com/Dgasensi/Proyecto_final_MindGuard)
-
 - 🌱 I’m currently learning **R, maths for MachineLearning, Tableau, PySpark**
 
 - 📝 I regularly write articles on [https://medium.com/@dgasensi](https://medium.com/@dgasensi)
@@ -10,8 +8,6 @@
 - 💬 Ask me about **Transformers, NLP, Python**
 
 - 📫 How to reach me **dgasensi@gmail.com**
-
-- ⚡ Fun fact **My grey parrot Lana is learning to code too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
